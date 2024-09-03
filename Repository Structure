@@ -2,4 +2,4 @@ image-encryption-decryption-aes/
 │
 ├── README.md
 ├── requirements.txt
-└── main.py
+└── imagenc.py
