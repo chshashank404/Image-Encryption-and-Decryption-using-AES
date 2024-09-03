@@ -1,0 +1,5 @@
+Step 1: Run the main script "python main.py".
+
+Step 2: Use the GUI to select an image file, specify the output path, and provide an encryption/decryption key.
+
+Step 3: Click on "Encrypt" to encrypt the image or "Decrypt" to decrypt the image.
